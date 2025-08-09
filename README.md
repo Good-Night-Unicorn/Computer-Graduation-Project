@@ -1,5 +1,5 @@
 ## 计算机毕业设计
-**毕业设计所有选题地址： [github💬](https://github.com/Good-Night-Unicorn?tab=repositories)、
+**毕业设计所有选题地址： [github🎶](https://github.com/Good-Night-Unicorn?tab=repositories)、
 [CSDN💬](https://blog.csdn.net/javayoungcoolboy?type=sub&subType=watch)、[个人网站💤](https://fengye.vercel.app/)**
 **完整代码收费可以加微信FY-yuanma咨询接毕业设计论文**
 
